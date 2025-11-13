@@ -1,4 +1,4 @@
-name: android-maven-prebuilt-release-actions-workflow
+name: maven-prebuilt-release-actions-workflow
 on:
   push:
   
